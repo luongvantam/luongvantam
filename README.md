@@ -18,9 +18,9 @@ Passionate about transforming creative ideas into functional digital solutions, 
 
 ## 🌟 Featured Projects
 
-* **[VieLearning](https://vie-learning.vercel.app/)**: An open educational platform built to support students and self-learners.
-* **[Vietnam Experimental Casio Forum (VECF)](https://casiovn.vercel.app/)**: Official website and knowledge hub for the VECF community, focused on Casio system exploration and custom development.
-* **[VECF Discord Community](https://discord.gg/vU4N2Mvz8H)**: The main communication channel for the VECF strong community.
+* **[VieLearning](https://vie-learning.vercel.app/)**: learning project
+* **[Vietnam Experimental Casio Forum (VECF)](https://casiovn.vercel.app/)**: Casio Vietnam forum
+* **[Discord Community](https://discord.gg/vU4N2Mvz8H)**: Sever discord Casio Hacking Community
 
 ---
 
