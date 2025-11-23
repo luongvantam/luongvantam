@@ -11,7 +11,7 @@ Passionate about transforming creative ideas into functional digital solutions, 
 
 ## 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,react,nodejs,vercel,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,vercel,github,vscode" />
 </p>
 
 ---
