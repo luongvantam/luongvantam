@@ -20,7 +20,7 @@ Passionate about transforming creative ideas into functional digital solutions, 
 
 * **[VieLearning](https://vie-learning.vercel.app/)**: learning project
 * **[Vietnam Experimental Casio Forum (VECF)](https://casiovn.vercel.app/)**: Casio Vietnam forum
-* **[Discord Community](https://discord.gg/vU4N2Mvz8H)**: Sever discord Casio Hacking Community
+* **[U16ToolChain](https://github.com/luongvantam/U16ToolChain)**: Tool chain for casio nx-u8/nx-u16
 
 ---
 
@@ -41,6 +41,6 @@ Passionate about transforming creative ideas into functional digital solutions, 
 
 * **🌐 Website (VieLearning):** [vie-learning.vercel.app](https://vie-learning.vercel.app/)
 * **🌐 Website (VECF):** [casiovn.vercel.app](https://casiovn.vercel.app/)
-* **💬 Discord Server:** [discord.gg/vU4N2Mvz8H](https://discord.gg/vU4N2Mvz8H)
+* **💬 Discord Server (Casio Hacking Community):** [discord.gg/vU4N2Mvz8H](https://discord.gg/vU4N2Mvz8H)
 
 ---
