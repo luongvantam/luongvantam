@@ -2,25 +2,10 @@
 
 ---
 
-## 🚀 Professional Summary
-I'm a self-taught Developer and the Founder of **VECF** & **VieLearning**.
-
-Passionate about transforming creative ideas into functional digital solutions, I focus on full-stack experimentation and community-driven projects.
-
----
-
 ## 🛠️ Technologies & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,vercel,git,github,vscode,php,react,nextjs" />
 </p>
-
----
-
-## 🌟 Featured Projects
-
-* **[VieLearning](https://vie-learning.vercel.app/)**: learning project
-* **[Vietnam Experimental Casio Forum (VECF)](https://casiovn.vercel.app/)**: Casio Vietnam forum
-* **[U16ToolChain](https://github.com/luongvantam/U16ToolChain)**: Tool chain for casio nx-u8/nx-u16
 
 ---
 
@@ -40,8 +25,6 @@ Passionate about transforming creative ideas into functional digital solutions, 
 
 ## 🔗 Let's Connect!
 
-* **🌐 Website (VieLearning):** [vie-learning.vercel.app](https://vie-learning.vercel.app/)
-* **🌐 Website (VECF):** [casiovn.vercel.app](https://casiovn.vercel.app/)
 * **💬 Discord Server (Casio Hacking Community):** [discord.gg/vU4N2Mvz8H](https://discord.gg/vU4N2Mvz8H)
 
 ---
