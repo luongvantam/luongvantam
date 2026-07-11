@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lương Văn Tâm - Portfolio</title>
+    <!-- Premium Icons -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500&family=JetBrains+Mono:wght@400&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- STICKY HEADER (Appears on scroll) -->
+    <header class="sticky-header" id="sticky-header">
+        <div class="sticky-wrapper">
+            <div class="sticky-profile">
+                <img src="avatar.jpg" alt="Lương Văn Tâm"
+                    onerror="this.src='https://via.placeholder.com/40/09090b/ffffff?text=LVT'">
+                <span>LƯƠNG VĂN TÂM</span>
+            </div>
+            <a href="mailto:luongtammc12@gmail.com" class="sticky-btn"><span>Contact</span></a>
+        </div>
+    </header>
+
+    <!-- Minimalist Blueprint Grid (No Lag) -->
+    <div class="grid-overlay"></div>
+
+    <main class="wrapper">
+        <!-- HEADER -->
+        <header class="top-nav reveal">
+            <span class="logo">LVT // 2K17</span>
+        </header>
+
+        <!-- HERO SECTION -->
+        <section class="hero reveal">
+            <div class="hero-center">
+                <img src="anh-nen.gif" class="hero-banner-img" alt="">
+                <div class="avatar-glow-ring" id="hero-avatar">
+                    <img src="avatar.jpg" alt="Lương Văn Tâm" class="avatar-img"
+                        onerror="this.src='https://via.placeholder.com/400/09090b/ffffff?text=Avatar'">
+                </div>
+                <div class="hero-title-group">
+                    <h1 class="huge-text">Lương Văn Tâm</h1>
+                </div>
+            </div>
+
+            <div class="hero-bottom">
+                <p class="mono-label">[ NOTHING HOT HERE ]</p>
+                <p class="hero-desc">Got anything hot?</p>
+            </div>
+        </section>
+
+        <!-- ABOUT & STATS -->
+        <section class="about-section reveal">
+            <div class="section-title">
+                <span class="mono-label">01 // ABOUT ME</span>
+            </div>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>Student & open-source developer. I trap lightning in rocks and specialize in unscrambling eggs.
+                    </p>
+                </div>
+                <div class="stats-grid">
+                    <div class="stat-box">
+                        <h2>20+</h2>
+                        <p>Projects</p>
+                    </div>
+                    <div class="stat-box">
+                        <h2>1K+</h2>
+                        <p>Community Members</p>
+                    </div>
+                    <div class="stat-box">
+                        <h2>3+</h2>
+                        <p>Years Coding</p>
+                    </div>
+                    <div class="stat-box">
+                        <h2>OSS</h2>
+                        <p>Contributor</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ARSENAL -->
+        <section class="expertise-section reveal">
+            <div class="section-title">
+                <span class="mono-label">02 // ARSENAL</span>
+            </div>
+            <div class="expertise-content triple-col">
+                <div class="stack-category">
+                    <h3>Languages</h3>
+                    <div class="tags">
+                        <span>Python</span>
+                        <span>C / C++</span>
+                        <span>Rust</span>
+                        <span>TypeScript</span>
+                        <span>JavaScript</span>
+                        <span>Assembly</span>
+                    </div>
+                </div>
+                <div class="stack-category">
+                    <h3>Technologies</h3>
+                    <div class="tags">
+                        <span>Git</span>
+                        <span>Linux</span>
+                        <span>Node.js</span>
+                        <span>Vercel</span>
+                        <span>Ollama</span>
+                        <span>SQLite</span>
+                    </div>
+                </div>
+                <div class="stack-category">
+                    <h3>Areas</h3>
+                    <div class="tags">
+                        <span>Compiler Design</span>
+                        <span>Reverse Engineering</span>
+                        <span>Emulator Development</span>
+                        <span>Artificial Intelligence</span>
+                        <span>Web Development</span>
+                        <span>Automation</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SELECTED WORKS (ACCORDION HOVER) -->
+        <section class="projects-section reveal">
+            <div class="section-title">
+                <span class="mono-label">03 // SELECTED WORKS</span>
+            </div>
+
+            <div class="project-list">
+
+                <!-- Project 1: RAC-Compiler -->
+                <a href="https://github.com/luongvantam/RAC-Compiler" target="_blank" class="project-row">
+                    <div class="project-num">01</div>
+                    <div class="project-content-wrapper">
+                        <div class="project-info">
+                            <h2>RAC-Compiler</h2>
+                            <div class="project-tags">Python / Compiler</div>
+                        </div>
+                        <div class="project-details">
+                            <div class="project-details-inner">
+                                <p>A Python-based compiler for a custom ROP assembly language targeting the nx-u8/nx-u16
+                                    architectures on Casio calculators.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-arrow"><i class="ph ph-arrow-up-right"></i></div>
+                </a>
+
+                <!-- Project 2: VECF -->
+                <a href="https://casiovn.vercel.app/" target="_blank" class="project-row">
+                    <div class="project-num">02</div>
+                    <div class="project-content-wrapper">
+                        <div class="project-info">
+                            <h2>VECF</h2>
+                            <div class="project-tags">Web / Community</div>
+                        </div>
+                        <div class="project-details">
+                            <div class="project-details-inner">
+                                <p>An online forum for Casio calculator enthusiasts featuring discussions,
+                                    documentation, project sharing, and community events.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-arrow"><i class="ph ph-arrow-up-right"></i></div>
+                </a>
+
+                <!-- Project 3: VieLearning -->
+                <a href="https://vie-learning.vercel.app/" target="_blank" class="project-row">
+                    <div class="project-num">03</div>
+                    <div class="project-content-wrapper">
+                        <div class="project-info">
+                            <h2>VieLearning</h2>
+                            <div class="project-tags">Frontend / Education</div>
+                        </div>
+                        <div class="project-details">
+                            <div class="project-details-inner">
+                                <p>A personal learning project focused on practical web development and building
+                                    interactive experiences.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-arrow"><i class="ph ph-arrow-up-right"></i></div>
+                </a>
+
+            </div>
+        </section>
+
+        <!-- FOOTER / CONTACT -->
+        <footer class="contact-section reveal">
+            <div class="contact-left">
+                <a href="mailto:luongtammc12@gmail.com" class="email-btn">
+                    <span>Contact / Connect</span>
+                    <i class="ph ph-arrow-right"></i>
+                </a>
+            </div>
+            <div class="contact-right">
+                <div class="social-links">
+                    <a href="https://github.com/luongvantam" target="_blank">
+                        <span>GitHub</span>
+                        <i class="ph ph-arrow-up-right"></i>
+                    </a>
+                    <a href="https://discord.gg/vU4N2Mvz8H" target="_blank">
+                        <span>Discord</span>
+                        <i class="ph ph-arrow-up-right"></i>
+                    </a>
+                    <a href="mailto:luongtammc12@gmail.com">
+                        <span>Email</span>
+                        <i class="ph ph-arrow-up-right"></i>
+                    </a>
+                </div>
+            </div>
+        </footer>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
